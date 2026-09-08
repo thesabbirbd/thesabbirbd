@@ -1,12 +1,20 @@
 <div align="center">
 
   <!-- ==================== HERO BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2563eb,25:06b6d4,50:3b82f6,75:8b5cf6,100:ec4899&height=220&section=header&text=MD%20SABBIRUL%20ISLAM%20KHAN&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=BBA%20Management%20%7C%20Backend%20%26%20DevOps%20Architect%20%7C%20AI%20Systems&descSize=15&descAlignY=58&descAlign=50" width="100%" alt="Md Sabbirul Islam Khan Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:00F0FF,25:0072FF,50:7928CA,75:FF0080,100:00F0FF&height=240&section=header&text=MD%20SABBIRUL%20ISLAM%20KHAN&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=BBA%20Management%20%7C%20Backend%20and%20DevOps%20Architect%20%7C%20AI%20Systems&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Md Sabbirul Islam Khan Profile Banner" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/thesabbirbd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+SABBiR+%F0%9F%91%8B;100-Day+Backend+%26+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Creator+of+Omnidesk+BD+%F0%9F%9A%80;AI+%26+Cloud+Systems+Explorer+%F0%9F%A7%A0;Multimedia+Creator+%26+Hardware+Hacker+%F0%9F%94%A7" alt="Typing SVG - SABBiR Titles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+SABBiR+%F0%9F%91%8B;100-Day+Backend+%26+DevOps+Engineer+%E2%9A%99%EF%B8%8F;Creator+of+Omnidesk+BD+%F0%9F%9A%80;Google+Local+Guide+%26+360%C2%B0+Photographer+%F0%9F%8C%8D;AI+%26+Cloud+Systems+Explorer+%F0%9F%A7%A0;Multimedia+Creator+%26+Hardware+Hacker+%F0%9F%94%A7" alt="Typing SVG - SABBiR Titles" />
   </a>
+
+  <!-- BIO GREETING & SPIRITUAL ETHOS -->
+  <p align="center">
+    <b>Aʂʂαʅαɱυ - Aʅαιƙυɱ🤍</b><br/>
+    <sub>ᴊᴜꜱᴛ ꜱᴍɪʟᴇ ᴀɴᴅ ꜱᴀʏ😊</sub><br/>
+    <b>ＡＬＨＡＭＤＵＬＩＬＬＡＨ💚</b><br/>
+    <sub>Ｊａｚāｋ░Aｌｌāｈｕ░Ｋｈａｙｒａｎ✨</sub>
+  </p>
 
   <p align="center">
     <strong>Md Sabbirul Islam Khan</strong> &bull; <em>Bridging Business Management with Hardcore Systems Engineering. 🚀</em>
@@ -18,25 +26,37 @@
     <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_BACKEND-ACTIVE-00B4D8?style=flat-square" alt="Backend Active" />
     <img src="https://img.shields.io/badge/%F0%9F%A7%A0_AI_CORE-LOCAL-7928CA?style=flat-square" alt="AI Core Local" />
     <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_CLOUD-READY-2563EB?style=flat-square" alt="Cloud Ready" />
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_NOC_OPS-MONITORING-FF0055?style=flat-square" alt="NOC Ops Monitoring" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%9F_GOOGLE-LOCAL_GUIDE-34A853?style=flat-square" alt="Google Local Guide" />
   </p>
 
   <!-- QUICK SOCIALS & VIEWS -->
   <p align="center">
-    <a href="mailto:contact@thesabbir.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://facebook.com/iamthesabbir" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    &nbsp;
+    <a href="mailto:iamthesabbir@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://www.google.com/maps/contrib/115922089427483699024?utm_source=mstt_0" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Maps-Local_Guide-34A853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/thesabbirbd" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/thesabbirbd" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F0FF" alt="Portfolio" />
+    <a href="https://www.instagram.com/iam_thesabbir" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://x.com/thesabbirbd" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter" />
     </a>
     &nbsp;
     <a href="https://github.com/thesabbirbd">
-      <img src="https://komarev.com/ghpvc/?username=thesabbirbd&label=PROFILE+VIEWS&style=for-the-badge&color=00b4d8&base=1250" alt="Profile Views Counter" />
+      <img src="https://komarev.com/ghpvc/?username=thesabbirbd&label=PROFILE+VIEWS&style=for-the-badge&color=00f0ff&base=1250" alt="Profile Views Counter" />
     </a>
   </p>
 
@@ -67,13 +87,76 @@ Currently pursuing my **BBA in Management at Rajshahi College**, my engineering 
 
 <br/>
 
-<!-- ==================== 02: FLAGSHIP PROJECT ==================== -->
-## 🌌 02 // Flagship Project: Omnidesk BD
+<!-- ==================== 02: GOOGLE LOCAL GUIDE & VOLUNTEERING ==================== -->
+## 🌿 02 // Google Local Guide & Community Volunteering
 
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="background: rgba(37, 99, 235, 0.05); border: 1px solid #00b4d8; border-radius: 12px; padding: 24px;">
+      <td style="background: rgba(16, 185, 129, 0.05); border: 1px solid #10b981; border-radius: 14px; padding: 24px;">
+        <h3 align="center" style="color: #10b981; margin-bottom: 6px;">
+          🌍 GOOGLE LOCAL GUIDE & 360° STREET VIEW CONTRIBUTOR
+        </h3>
+        <p align="center" style="font-size: 15px; margin: 4px 0;">
+          <b>Top Contributor &bull; Direct Google Headquarters Recognition &amp; Gifts Recipient 🎁</b>
+        </p>
+        <p align="center" style="max-width: 820px; line-height: 1.6; opacity: 0.9;">
+          <em>Actively mapping Bangladesh to the world. As an active <b>Google Maps Local Guide</b> and <b>360° Google Street View Photographer</b>, I have contributed verified geospatial data, high-resolution immersive imagery, and local business insights that have guided millions of travelers — earning direct official gifts and recognition from Google Headquarters.</em>
+        </p>
+        <p align="center" style="margin-top: 12px;">
+          <a href="https://www.google.com/maps/contrib/115922089427483699024?utm_source=mstt_0" target="_blank">
+            <img src="https://img.shields.io/badge/Google_Maps-View_Contributions-34A853?style=flat-square&logo=google-maps&logoColor=white" alt="Google Maps Contributions" />
+          </a>
+          <a href="https://maps.app.goo.gl/Z5PUEJ3n1B7CDHjv5" target="_blank">
+            <img src="https://img.shields.io/badge/Featured-Location_Pin-EA4335?style=flat-square&logo=google-maps&logoColor=white" alt="Featured Location" />
+          </a>
+          <a href="https://www.facebook.com/LocalGuidesBD" target="_blank">
+            <img src="https://img.shields.io/badge/Member-Local_Guides_BD-4285F4?style=flat-square&logo=google&logoColor=white" alt="Local Guides BD" />
+          </a>
+          <a href="https://www.facebook.com/Google-Street-View-103793739020433/" target="_blank">
+            <img src="https://img.shields.io/badge/Photographer-360%C2%B0_Street_View-FBBC05?style=flat-square&logo=google-street-view&logoColor=black" alt="Google Street View" />
+          </a>
+        </p>
+        <hr style="border: 0; border-top: 1px solid rgba(16, 185, 129, 0.2); margin: 18px 0;" />
+        <h4 align="center" style="color: #34d399; margin-bottom: 12px;">🤝 Campus Leadership &amp; Humanitarian Volunteering</h4>
+        <table width="100%" style="border-collapse: collapse; border: none; font-size: 14px;">
+          <tr>
+            <td width="50%" valign="top" style="padding: 8px;">
+              <b>🏛️ Campus &amp; Youth Leadership:</b>
+              <ul>
+                <li><b>IT Executive:</b> <a href="https://www.facebook.com/RCPC.RAJSHAHI" target="_blank">Rajshahi College Presentation Club (RCPC)</a></li>
+                <li><b>Official Member:</b> <a href="https://www.facebook.com/RCBC.Rc" target="_blank">Rajshahi College Business Club (RCBC)</a></li>
+                <li><b>General Member:</b> <a href="https://www.facebook.com/VolunteerforBangladesh" target="_blank">Volunteer for Bangladesh (VBD)</a></li>
+              </ul>
+            </td>
+            <td width="50%" valign="top" style="padding: 8px;">
+              <b>💉 Social Impact &amp; Field Work:</b>
+              <ul>
+                <li><b>Volunteer &amp; Donor:</b> <a href="https://www.facebook.com/bffr2021" target="_blank">Blood Fighters Finder Rajshahi (BFFR)</a></li>
+                <li><b>Field Interviewer:</b> <a href="https://www.facebook.com/EPI-CES-Coverage-Evaluation-Survey-212726835247809/" target="_blank">EPI CES Coverage Evaluation Survey</a></li>
+                <li><b>Community Contributor:</b> <a href="https://www.facebook.com/GoogleMaps" target="_blank">Google Maps Community Global</a></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Section Divider" />
+</div>
+
+<br/>
+
+<!-- ==================== 03: FLAGSHIP PROJECT ==================== -->
+## 🌌 03 // Flagship Project: Omnidesk BD
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td align="center" style="background: rgba(37, 99, 235, 0.05); border: 1px solid #00b4d8; border-radius: 14px; padding: 24px;">
         <h3 align="center" style="color: #00b4d8; margin-bottom: 6px;">✨ OMNIDESK BD</h3>
         <p align="center" style="font-size: 16px; margin: 4px 0;">
           <b>A Local-First Universal Learning Engine & AI-Powered Multi-Domain Study Workspace.</b>
@@ -100,12 +183,12 @@ Currently pursuing my **BBA in Management at Rajshahi College**, my engineering 
 
 <br/>
 
-<!-- ==================== 03: CURRENT MISSION ==================== -->
-## 🚀 03 // Current Mission: 100-Day Backend & DevOps Sprint
+<!-- ==================== 04: CURRENT MISSION ==================== -->
+## 🚀 04 // Current Mission: 100-Day Backend & DevOps Sprint
 
 ```
-[ INITIATIVE ]  :: 100-DAY BACKEND & DEVOPS ENGINEERING MISSION
-[ PHILOSOPHY ]  :: Transforming Architectural Theory into Production Infrastructure
+[ INITIATIVE ]    :: 100-DAY BACKEND & DEVOPS ENGINEERING MISSION
+[ PHILOSOPHY ]    :: Transforming Architectural Theory into Production Infrastructure
 [ CURRENT STATE ] :: Microservice Containerization, High-Throughput APIs & Cloud Automation
 ```
 
@@ -123,8 +206,50 @@ I am actively executing a focused, disciplined engineering mission designed to m
 
 <br/>
 
-<!-- ==================== 04: ENGINEERING STACK ==================== -->
-## 💻 04 // Engineering Stack & Technical Arsenal
+<!-- ==================== 05: EXPERIENCE & BACKGROUND ==================== -->
+## 💼 05 // Experience & Technical Background
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <b>📡 Systems, Networks &amp; Code:</b>
+        <ul>
+          <li><b>NOC Support &amp; MTCNA Intern:</b> <a href="https://www.facebook.com/ShunnoITBD" target="_blank">Shunno IT (শূন্য আইটি)</a> — Live network monitoring, Mikrotik routing, and uptime management.</li>
+          <li><b>Python Specialized Trainee:</b> <a href="https://www.facebook.com/BHTPA" target="_blank">Bangladesh Hi-Tech Park Authority</a> — Completed Introduction to Python programming.</li>
+          <li><b>Cloud Engineering V1:</b> Muktopaath Certified in foundational cloud infrastructure design.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" style="padding: 10px;">
+        <b>🎬 Media Production &amp; Gaming:</b>
+        <ul>
+          <li><b>Media Production Specialist:</b> <a href="https://www.facebook.com/aditi.aditibd" target="_blank">Aditi (অদিতি)</a> — Professional photographer, videographer, and post-production editor.</li>
+          <li><b>360° VR Imagery:</b> Contributor to Google Street View immersive virtual tours.</li>
+          <li><b>Competitive Esports Gamer:</b> <a href="https://www.facebook.com/bangladeshofficialfreefire" target="_blank">Garena Free Fire</a> tactical player.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 10px; border-top: 1px solid rgba(255,255,255,0.08);">
+        <b>🎓 Academic Foundations:</b>
+        <ul>
+          <li><b>Higher Education:</b> Department of Management, <a href="https://www.facebook.com/managementrc" target="_blank">Rajshahi College</a> (Business strategy, organizational behavior &amp; operations).</li>
+          <li><b>Technical Foundation:</b> <a href="https://www.facebook.com/Hat-Gangopara-Bm-Technical-College-513972595446109/" target="_blank">Hat Gangopara BM Technical College</a> (Vocational &amp; technical fundamentals).</li>
+          <li><b>Location &amp; Roots:</b> Living in <a href="https://www.facebook.com/Rajshahi-108479165840750/" target="_blank">Rajshahi</a> &bull; From <a href="https://www.facebook.com/Bagmara-R%C4%81jsh%C4%81hi-Bangladesh-110282968997637/" target="_blank">Bagmara, Rājshāhi, Bangladesh</a>.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Section Divider" />
+</div>
+
+<br/>
+
+<!-- ==================== 06: ENGINEERING STACK ==================== -->
+## 💻 06 // Engineering Stack & Technical Arsenal
 
 <div align="center">
 
@@ -183,8 +308,8 @@ I am actively executing a focused, disciplined engineering mission designed to m
 
 <br/>
 
-<!-- ==================== 05: GITHUB TELEMETRY ==================== -->
-## 📈 05 // Live GitHub Telemetry & Activity
+<!-- ==================== 07: GITHUB TELEMETRY ==================== -->
+## 📈 07 // Live GitHub Telemetry & Activity
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
@@ -239,8 +364,8 @@ I am actively executing a focused, disciplined engineering mission designed to m
 
 <br/>
 
-<!-- ==================== 06: CAPABILITIES & SERVICES ==================== -->
-## 🛠️ 06 // Capabilities & Professional Services
+<!-- ==================== 08: CAPABILITIES & SERVICES ==================== -->
+## 🛠️ 08 // Capabilities & Professional Services
 
 I combine business economics with production-grade engineering to deliver scalable, reliable digital assets:
 
@@ -253,26 +378,38 @@ I combine business economics with production-grade engineering to deliver scalab
 
 <br/>
 
-<!-- ==================== 07: CONNECT & COLLABORATE ==================== -->
-## 🌐 07 // Connect & Collaborate
+<!-- ==================== 09: CONNECT & COLLABORATE ==================== -->
+## 🌐 09 // Connect & Collaborate
 
 <div align="center">
 
   <p align="center">
-    <em>"Whether you're looking to discuss backend architectures, run offline AI pipelines, or build scalable digital systems — let's build something useful."</em>
+    <em>"Whether you're looking to discuss backend architectures, run offline AI pipelines, explore geospatial mapping, or build scalable digital systems — let's connect and build something impactful."</em>
   </p>
 
   <p align="center">
+    <a href="https://facebook.com/iamthesabbir" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect on Facebook" />
+    </a>
+    &nbsp;
+    <a href="mailto:iamthesabbir@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Personal Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.google.com/maps/contrib/115922089427483699024?utm_source=mstt_0" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Maps-Local_Guide-34A853?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps Profile" />
+    </a>
+    &nbsp;
     <a href="https://linkedin.com/in/thesabbirbd" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:contact@thesabbir.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+    <a href="https://www.instagram.com/iam_thesabbir" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
     </a>
     &nbsp;
-    <a href="https://github.com/thesabbirbd" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F0FF" alt="View Portfolio" />
+    <a href="https://x.com/thesabbirbd" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
     </a>
     &nbsp;
     <a href="https://github.com/thesabbirbd" target="_blank">
