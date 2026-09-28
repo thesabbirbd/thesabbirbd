@@ -6,14 +6,21 @@
 
 <p align="center"><b>👋 HELLO, I'M</b></p>
 
-# THE SABBiR
-## 🌐 SABBiR.NAV.BD
+<p align="center">
+  <a href="https://sabbir.nav.bd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=2000&color=ff6a00&center=true&vCenter=true&width=800&height=70&lines=THE+SABBiR;MD+SABBIRUL+ISLAM+KHAN" alt="Typing SVG Name" />
+  </a>
+</p>
+
+<h3 align="center">🌐 SABBiR.NAV.BD</h3>
 
 <br/>
 
-<a href="https://sabbir.nav.bd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=ff6a00&center=true&vCenter=true&width=600&height=60&lines=⚙️+Backend+Engineer;🚀+DevOps+Explorer;🐧+Linux+%26+Systems+Builder;🌐+Networking+Enthusiast;🤖+Local+AI+%26+Automation;🧠+Problem+Solver" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://sabbir.nav.bd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=ffb800&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer;DevOps+Explorer;Linux+%26+Systems+Builder;Networking+Enthusiast;Local+AI+%26+Automation;Problem+Solver" alt="Typing SVG Titles" />
+  </a>
+</p>
 
 <br/>
 
